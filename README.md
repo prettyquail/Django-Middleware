@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](images/mware.PNG)
+![](images/mware.png)
 
 
 ### Built With
